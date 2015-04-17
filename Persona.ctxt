@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nombre\ edad
+comment0.target=Persona(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Persona\r\n
+comment1.params=
+comment1.target=java.lang.String\ getEstadoCivil()
+comment1.text=\r\n\ Devuelve\ el\ estado\ civil\r\n\ @return\ String\ Cadena\ con\ el\ estado\ civil\ de\ la\ persona\r\n
+comment2.params=persona2
+comment2.target=void\ casar(Persona)
+comment2.text=\r\n\ Casa\ a\ 2\ personas,\ les\ cambia\ el\ estado\ civil\r\n\ @param\ persona2\ Persona\ con\ la\ que\ se\ va\ a\ casar\r\n
+comment3.params=
+comment3.target=int\ numEstadosCiviles()
+comment3.text=\r\n\ Devuelve\ el\ numero\ de\ estados\ civiles\r\n\ @return\ int\ Numeor\ de\ estados\ civiles\ que\ hay\r\n
+comment4.params=
+comment4.target=int\ numInstancias()
+comment4.text=\r\n\ Devuelve\ en\ numero\ de\ personas\ creadas\r\n\ @return\ int\ Numero\ de\ personas\ creadas\r\n
+comment5.params=estadoCivil
+comment5.target=void\ setEstadoCivil(java.lang.String)
+comment5.text=\r\n\ Establece\ un\ estado\ civil\r\n\ @param\ estadoCivil\ Estado\ civil\ que\ queremos\ introducir\r\n
+comment6.params=estadoCivil
+comment6.target=EstadoCivil\ esValido(java.lang.String)
+comment6.text=\r\n\ Devuelve\ el\ estado\ al\ que\ corresponda\ la\ cadena\ introducida\ o\ null\ si\ no\ coincide\r\n\ @param\ estadoCivil\ Estado\ civil\ introducido\r\n\ @return\ EstadoCivil\ Estado\ civil\ encontrado\ o\ null\r\n
+comment7.params=
+comment7.target=void\ verEstadosCiviles()
+comment7.text=\r\n\ Muestra\ los\ distintos\ estados\ civiles\ que\ hay\r\n
+numComments=8
